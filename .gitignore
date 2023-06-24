@@ -1,0 +1,31 @@
+# node modules
+node_modules
+
+# build
+build
+dist
+
+# logs
+logs
+
+# env file
+.env*.local
+.env
+
+# misc
+*.DS_Store
+
+# tests
+coverage
+
+# IDE
+.idea
+.vscode
+
+# others
+*.lock
+*.log
+*.swp
+*.swo
+*.out
+*.pid

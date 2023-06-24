@@ -1,0 +1,3 @@
+/**
+    CHECK THE ENVIRONMENT VARIABLES 
+**/
